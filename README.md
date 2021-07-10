@@ -6,10 +6,12 @@ IN This game programm generate random number between 1-100(i fixed the limit you
 for C/C++ 
 -----------
 0 < num < 33 || 33 < num <66 || 66 < num < 100
+     S                W               G
 
 for Python
 ------------
 0<num<30 || 30 < num < 60 || 60<num<100
+    S             W              G
 
-YOU ARE FREE TO FIEXED THE RANGE OF NUMBER 
+YOU ARE FREE TO FIXED THE RANGE OF NUMBER 
 
